@@ -80,7 +80,7 @@ eg. in my case ----- hdfs dfs -ls /user/hduser/.Trash/Current/demo
 
 ### 6. Recover  a Deleted File from Current Trash:
 
-**To recover a specific file from Trash, use the hdfs dfs -mv command to move it back        to its original location or to a new location of your choice. For example:**
+**To recover a specific file from Trash, use the hdfs dfs -mv command to move it back to its original location or to a new location of your choice. For example:**
 
 ```bash
 hdfs dfs -mv /user/<username>/.Trash/Current/yourfile.txt /path/to/recovery/location/
@@ -105,3 +105,21 @@ This sequence of commands illustrates how to effectively manage files in HDFS, p
 
 
 
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+**👨‍💻 𝓒𝓻𝓪𝓯𝓽𝓮𝓭 𝓫𝔂**: [Suraj Kumar Choudhary](https://github.com/Surajkumar4-source) | 📩 **𝓕𝓮𝓮𝓵 𝓯𝓻𝓮𝓮 𝓽𝓸 𝓓𝓜 𝓯𝓸𝓻 𝓪𝓷𝔂 𝓱𝓮𝓵𝓹**: [csuraj982@gmail.com](mailto:csuraj982@gmail.com)
+
+
+
+
+<br>
